@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\layout_fragment_camera.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\layout_fragment_file_operations.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_file_operations.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "ru.mirea.maiorovaa.mireaproject.app-merged_res-55:/layout_fragment_places_map.xml.flat",
+        "source": "ru.mirea.maiorovaa.mireaproject.app-main-57:/layout/fragment_places_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\layout_fragment_data.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\layout_dialog_create_record.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\dialog_create_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\layout_fragment_network_recources.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_network_recources.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\layout_fragment_web_view.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_web_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\layout_fragment_places_map.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_places_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\menu_main.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\drawable_marker.png.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\drawable\\marker.png"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\drawable_img.png.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\layout_fragment_sensor.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_sensor.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\drawable_user_location.png.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\drawable\\user_location.png"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\drawable_mark.png.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\drawable\\mark.png"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-merged_res-55:\\layout_fragment_microphone.xml.flat",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_microphone.xml"
+    }
+]

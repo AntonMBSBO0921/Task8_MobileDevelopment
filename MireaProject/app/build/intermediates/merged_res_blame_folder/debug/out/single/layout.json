@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:\\layout\\fragment_sensor.xml",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_sensor.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:\\layout\\fragment_camera.xml",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:\\layout\\fragment_web_view.xml",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_web_view.xml"
+    },
+    {
+        "merged": "ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:/layout/fragment_places_map.xml",
+        "source": "ru.mirea.maiorovaa.mireaproject.app-main-57:/layout/fragment_places_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:\\layout\\fragment_network_recources.xml",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_network_recources.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:\\layout\\fragment_microphone.xml",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_microphone.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:\\layout\\fragment_data.xml",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:\\layout\\fragment_places_map.xml",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_places_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:\\layout\\content_main.xml",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:\\layout\\dialog_create_record.xml",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\dialog_create_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:\\layout\\fragment_file_operations.xml",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_file_operations.xml"
+    },
+    {
+        "merged": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-mergeDebugResources-54:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\guvxz\\.gradle\\daemon\\8.2\\ru.mirea.maiorovaa.mireaproject.app-main-57:\\layout\\fragment_home.xml"
+    }
+]

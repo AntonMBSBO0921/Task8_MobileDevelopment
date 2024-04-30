@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">54872076917</string>
+    <string name="google_api_key" translatable="false">AIzaSyAlrPZPVN1RHr8upE9kSM97a0IVCRBEwyg</string>
+    <string name="google_app_id" translatable="false">1:54872076917:android:9b76f90713957b81e0be3c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAlrPZPVN1RHr8upE9kSM97a0IVCRBEwyg</string>
+    <string name="google_storage_bucket" translatable="false">mireaproject-ab21f.appspot.com</string>
+    <string name="project_id" translatable="false">mireaproject-ab21f</string>
+</resources>
